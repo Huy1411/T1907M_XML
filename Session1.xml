@@ -1,0 +1,7 @@
+<?xml version="1.0.0" encoding="UTF-8" ?>  <!--khai bao tai lieu-->
+<Student> <!--    root element-->
+    <name> Nguyen Xuan Huy</name>
+    <age> 28 </age>
+    <address>Ha Noi, Viet Nam</address>
+    <telephone> 0966968837 </telephone>
+</Student>
